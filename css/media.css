@@ -1,0 +1,27 @@
+@media only screen and (max-width: 600px) {
+    .header{
+        position: static;
+    }
+    .bannner-img{
+    	width: 100%;
+    }
+    .video-wapper{
+    	width: 100%;
+    }
+    .news-first-img{
+    	width: 45%;
+    } 
+    .featured-one{
+    	width: 100%;
+    } 
+
+
+}
+
+
+@media only screen and (max-width: 320px) {
+     .news-first-img{
+     	width: 100%;
+     }
+
+}
